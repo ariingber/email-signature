@@ -1,0 +1,17 @@
+body {
+  font-size: 14px;
+  color: #0061BE;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#name {
+  font-family: 'Muli', sans-serif;
+  font-size: 15px !important;
+
+}
+
+#position {
+  font-family: 'Muli', sans-serif;
+  font-size: 15px !important;
+  color: #1FD9C7 !important;
+}
