@@ -4,14 +4,24 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+@font-face {font-family: 'museo-rounded-100';
+src: url('https://ariingber.github.io/email-signature/museo/MuseoSansRounded-100.otf');
+}
+@font-face {font-family: 'museo-rounded-300';
+src: url('https://ariingber.github.io/email-signature/museo/MuseoSansRounded-300.otf');
+}
+@font-face {font-family: 'museo-rounded-500';
+src: url('https://ariingber.github.io/email-signature/museo/MuseoSansRounded-500.otf');
+}
+
 #name {
-  font-family: 'Muli', sans-serif;
+  font-family: 'museo-rounded-300', sans-serif;
   font-size: 15px !important;
 
 }
 
 #position {
-  font-family: 'Muli', sans-serif;
+  font-family: 'museo-rounded-300', sans-serif;
   font-size: 15px !important;
   color: #1FD9C7 !important;
 }
